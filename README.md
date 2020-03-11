@@ -24,4 +24,4 @@ Por último decidi utilizar o metodo XGboost, até então um metodo que eu conhe
 dificuldades com a hiper-parametrizaçao do mesmo, pois demorava muito. finalmente depois de alguns testes, consegui ajustar manualmente da melhor maneira, conseguindo uma Acurácia de 84%.
 gerei um grafico no final de importancia de cada feat, para fins de analize do xgboost em comparação com o grafico inicial por idade.
 
-obs: Usei inicialmente o Random State: Default, então foi bem triste ver a acurácia cair ao setar o RS pra 42. mas creio que me recuperei bem do choque.
+Obs: Usei inicialmente o Random State: Default, então foi bem triste ver a acurácia cair ao setar o RS pra 42. mas creio que me recuperei bem do choque.
